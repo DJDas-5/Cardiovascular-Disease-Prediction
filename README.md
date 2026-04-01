@@ -52,11 +52,6 @@ Cardiovascular Disease Prediction using Machine Learning techniques with end-to-
 
 Best Model: Random Forest<br>
 The Random Forest model achieved the highest accuracy and was selected as the final model.
-## Project Structure
-├── CardiovascularMinorProject.ipynb<br>
-├── cardio_train.csv<br>
-├── README.md<br>
-└── requirements.txt<br>
 ## Results
 - Achieved around 73% accuracy
 - Random Forest performed best among all models
